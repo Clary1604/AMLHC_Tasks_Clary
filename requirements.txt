@@ -1,0 +1,3 @@
+pandas
+numpy
+seaborn: zum visualisieren von Daten (erweitert matplotlib)
